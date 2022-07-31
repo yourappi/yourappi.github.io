@@ -46,7 +46,8 @@ body {
 
 setInterval(function () {
 //     window.location.href = window.location.origin + window.location.pathname + '?' + 'reloadTime=' + Date.now().toString() + window.location.hash;
-    window.location.href = window.location.origin + window.location.pathname + window.location.search + (window.location.search ? '&' : '?') + 'reloadTime=' + Date.now().toString() + window.location.hash;
+//    window.location.href = window.location.origin + window.location.pathname + window.location.search + (window.location.search ? '&' : '?') + 'reloadTime=' + Date.now().toString() + window.location.hash;
+      window.location.reload();	
 }, 5000);
 
 
