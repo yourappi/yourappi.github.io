@@ -6,7 +6,6 @@
 <meta http-equiv="Expires" content="-1"/>
 <meta charset="utf-8">
 <script src="https://d3js.org/d3.v3.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <style type="text/css">
 
 /* On mouse hover, lighten state color */
@@ -49,16 +48,7 @@ setInterval(function () {
 //     window.location.href = window.location.origin + window.location.pathname + '?' + 'reloadTime=' + Date.now().toString() + window.location.hash;
 //    window.location.href = window.location.origin + window.location.pathname + window.location.search + (window.location.search ? '&' : '?') + 'reloadTime=' + Date.now().toString() + window.location.hash;
 //      window.location.reload();
-	 $.ajax({
-        url: window.location.href,
-        headers: {
-            "Pragma": "no-cache",
-            "Expires": -1,
-            "Cache-Control": "no-cache"
-        }
-    }).done(function () {
-        window.location.reload(true);
-    });
+	window.location.reload(true);
 }, 5000);
 
 
