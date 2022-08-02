@@ -5,9 +5,9 @@ deg,iata,name,city,state,country,lat,lon
 ⛅️  +26°C,ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
 ⛅️  +33°C,AUS,Austin-Bergstrom International,Austin,TX,USA,30.19453278,-97.66987194
 ☀️   +22°C,BCB,Virginia Tech,Blacksburg,VA,USA,37.20782361,-80.40832778
-⛅️  +23°C,BDL,Bradley International,Windsor Locks,CT,USA,41.93887417,-72.68322833
+☀️   +21°C,BDL,Bradley International,Windsor Locks,CT,USA,41.93887417,-72.68322833
 ⛅️  +20°C,BGR,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
-🌦   +26°C,BHM,Birmingham International,Birmingham,AL,USA,33.56294306,-86.75354972
+⛅️  +26°C,BHM,Birmingham International,Birmingham,AL,USA,33.56294306,-86.75354972
 ⛅️  +27°C,BNA,Nashville International,Nashville,TN,USA,36.12447667,-86.67818222
 ☀️   +36°C,BOI,Boise Air Terminal,Boise,ID,USA,43.56444444,-116.2227778
 ⛅️  +21°C,BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917
@@ -19,11 +19,11 @@ deg,iata,name,city,state,country,lat,lon
 ☀️   +27°C,COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961
 ⛅️  +28°C,DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
 ⛅️  +28°C,DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
-⛅️  +36°C,DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+☀️   +32°C,DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
 ⛅️  +26°C,DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
 ☀️   +28°C,FCA,Glacier Park Intl,Kalispell,MT,USA,48.31140472,-114.2550694
 ⛅️  +29°C,FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,26.07258333,-80.15275
-⛅️  +30°C,HNL,Honolulu International,Honolulu,HI,USA,21.31869111,-157.9224072
+⛅️  +28°C,HNL,Honolulu International,Honolulu,HI,USA,21.31869111,-157.9224072
 ⛅️  +29°C,IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222
 ⛅️  +29°C,ICT,Wichita Mid-Continent,Wichita,KS,USA,37.64995889,-97.43304583
 ⛅️  +26°C,IND,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417
