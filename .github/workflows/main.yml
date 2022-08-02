@@ -28,8 +28,9 @@ jobs:
           ls
           weather=$(awk -F\, '{print $1}' usap.csv  | tr "\n" "," | sed 's/^/curl wttr.in\/{/' | sed 's/,$/}?format=1/') && sed '1d; n; d' <($weather) > temp.csv && paste -d ',' temp.csv usap.csv | sed '1 s/^/deg,iata,name,city,state,country,lat,lon\n/' > weathernow.csv && rm temp.csv
           ls
-          git add weathernow.csv
-          git commit -m "."
-          git push origin main
-
+      - uses: jasineri/simple-push-action@v1
+        with:
+           # Files pattern to add, wildcards supported
+           # Optional, default: ./*.*
+           file_pattern: weathernow.csv
           
