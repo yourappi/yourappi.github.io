@@ -3,7 +3,7 @@ deg,iata,name,city,state,country,lat,lon
 ⛅️  +64°F,AMW,Ames Municipal,Ames,IA,USA,41.99206972,-93.62180139
 ☁️   +56°F,ANC,Ted Stevens Anchorage International,Anchorage,AK,USA,61.17432028,-149.9961856
 ⛅️  +76°F,ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
-⛅️  +92°F,AUS,Austin-Bergstrom International,Austin,TX,USA,30.19453278,-97.66987194
+☀️   +82°F,AUS,Austin-Bergstrom International,Austin,TX,USA,30.19453278,-97.66987194
 ☀️   +71°F,BCB,Virginia Tech,Blacksburg,VA,USA,37.20782361,-80.40832778
 ☀️   +70°F,BDL,Bradley International,Windsor Locks,CT,USA,41.93887417,-72.68322833
 ☁️   +69°F,BGR,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
@@ -16,7 +16,7 @@ deg,iata,name,city,state,country,lat,lon
 ⛅️  +70°F,CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
 ☀️   +74°F,CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
 ☀️   +73°F,CMH,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278
-☀️   +80°F,COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961
+☀️   +78°F,COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961
 ⛅️  +73°F,DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
 ⛅️  +78°F,DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
 ☀️   +90°F,DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
@@ -26,7 +26,7 @@ deg,iata,name,city,state,country,lat,lon
 ⛅️  +82°F,HNL,Honolulu International,Honolulu,HI,USA,21.31869111,-157.9224072
 ⛅️  +84°F,IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222
 ⛅️  +79°F,ICT,Wichita Mid-Continent,Wichita,KS,USA,37.64995889,-97.43304583
-⛅️  +79°F,IND,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417
+⛅️  +71°F,IND,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417
 🌫  +70°F,JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
 ⛅️  +87°F,LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333
 ⛅️  +70°F,LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744
@@ -34,11 +34,11 @@ deg,iata,name,city,state,country,lat,lon
 ⛅️  +81°F,MCI,Kansas City International,Kansas City,MO,USA,39.29760528,-94.71390556
 ⛅️  +75°F,MCO,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
 ☀️   +79°F,MEM,Memphis International,Memphis,TN,USA,35.04241667,-89.97666667
-☀️   +77°F,MKE,General Mitchell International,Milwaukee,WI,USA,42.94722222,-87.89658333
+☀️   +69°F,MKE,General Mitchell International,Milwaukee,WI,USA,42.94722222,-87.89658333
 ☀️   +68°F,MOT,Minot International,Minot,ND,USA,48.25937778,-101.2803339
-☀️   +78°F,MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225
-☀️   +79°F,MSY,New Orleans International,New Orleans,LA,USA,29.99338889,-90.25802778
-⛅️  +78°F,ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+☀️   +70°F,MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225
+☀️   +78°F,MSY,New Orleans International,New Orleans,LA,USA,29.99338889,-90.25802778
+☀️   +71°F,ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
 ☀️   +70°F,PDX,Portland Intl,Portland,OR,USA,45.58872222,-122.5975
 ☀️   +75°F,PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
 ⛅️  +98°F,PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556
@@ -49,15 +49,15 @@ deg,iata,name,city,state,country,lat,lon
 ☀️   +73°F,SAN,San Diego International-Lindbergh,San Diego,CA,USA,32.73355611,-117.1896567
 ☀️   +81°F,SAT,San Antonio International,San Antonio,TX,USA,29.53369444,-98.46977778
 ☀️   +66°F,SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.3093131
-☀️   +61°F,SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
+☀️   +59°F,SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
 ☀️   +79°F,SGF,Springfield-Branson Regional,Springfield,MO,USA,37.24432611,-93.38685806
 ⛅️  +71°F,SJC,San Jose International,San Jose,CA,USA,37.36186194,-121.9290089
 🌩  +70°F,SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731
 ☀️   +73°F,SMF,Sacramento International,Sacramento,CA,USA,38.69542167,-121.5907669
-⛅️  +88°F,STL,Lambert-St Louis International,St Louis,MO,USA,38.74768694,-90.35998972
-🌦   +62°F,SXL,Summersville,Summersville,WV,USA,38.23163889,-80.87080556
+⛅️  +84°F,STL,Lambert-St Louis International,St Louis,MO,USA,38.74768694,-90.35998972
+🌦   +63°F,SXL,Summersville,Summersville,WV,USA,38.23163889,-80.87080556
 ⛅️  +86°F,TPA,Tampa International,Tampa,FL,USA,27.97547222,-82.53325
-☀️   +86°F,TUL,Tulsa International,Tulsa,OK,USA,36.19837222,-95.88824167
+☀️   +80°F,TUL,Tulsa International,Tulsa,OK,USA,36.19837222,-95.88824167
 ⛅️  +100°F,Y03,Springfield Municipal,Springfield,SD,USA,42.87999833,-97.90117972
 🌦   +74°F,JAN,Jackson International,Jackson,MS,USA,32.31116667,-90.07588889
 ☀️   +77°F,LEX,Blue Grass,Lexington,KY,USA,38.03697222,-84.60538889
