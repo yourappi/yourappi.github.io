@@ -4,9 +4,6 @@ name: Weather Update
 
 # Controls when the workflow will run
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
