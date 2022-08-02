@@ -4,7 +4,6 @@ name: Update Weather
 
 # Controls when the workflow will run
 on:
-  workflow_dispatch:
   schedule:
     - cron: "*/5 * * * *"
 
