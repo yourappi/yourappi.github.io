@@ -20,11 +20,12 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
+      # Run a multiline script
+      - name: Run a multi-line script
         run: |
-           ls
-           weather=$(awk -F\, '{print $1}' usap.csv  | tr "\n" "," | sed 's/^/curl wttr.in\/{/' | sed 's/,$/}?format=1/') && sed '1d; n; d' <($weather) > temp.csv && paste -d ',' temp.csv usap.csv | sed '1 s/^/deg,iata,name,city,state,country,lat,lon\n/' > weathernow.csv && rm temp.csv          
+          ls
+          weather=$(awk -F\, '{print $1}' usap.csv  | tr "\n" "," | sed 's/^/curl wttr.in\/{/' | sed 's/,$/}?format=1/') && sed '1d; n; d' <($weather) > temp.csv && paste -d ',' temp.csv usap.csv | sed '1 s/^/deg,iata,name,city,state,country,lat,lon\n/' > weathernow.csv && rm temp.csv          
+
           
