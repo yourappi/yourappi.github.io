@@ -24,5 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: weather=$(awk -F\, '{print $1}' usap.csv  | tr "\n" "," | sed 's/^/curl wttr.in\/{/' | sed 's/,$/}?format=1/') && sed '1d; n; d' <($weather) > temp.csv && paste -d ',' temp.csv usap.csv | sed '1 s/^/deg,iata,name,city,state,country,lat,lon\n/' > weathernow.csv && rm temp.csv          
+        run: |
+           ls
+           weather=$(awk -F\, '{print $1}' usap.csv  | tr "\n" "," | sed 's/^/curl wttr.in\/{/' | sed 's/,$/}?format=1/') && sed '1d; n; d' <($weather) > temp.csv && paste -d ',' temp.csv usap.csv | sed '1 s/^/deg,iata,name,city,state,country,lat,lon\n/' > weathernow.csv && rm temp.csv          
           
