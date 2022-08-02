@@ -181,5 +181,16 @@ svg.selectAll("circle")
 
 });
 </script>
+<script>
+addEventListener('DOMContentLoaded', (event) => {
+    var cDate = new Date();
+    document.getElementById("now").innerHTML = "Last updated on " + cDate.toString();
+    document.getElementById("now").style.fontStyle = "italic";
+});
+</script>
+
+<div id="now">
+</div>
+
 </body>
 </html>
