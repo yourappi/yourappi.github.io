@@ -2,11 +2,11 @@ deg,iata,name,city,state,country,lat,lon
 🌫  +24°C,AFK,Nebraska City Municipal,Nebraska City,NE,USA,40.60688889,-95.86569444
 ⛅️  +18°C,AMW,Ames Municipal,Ames,IA,USA,41.99206972,-93.62180139
 ☁️   +15°C,ANC,Ted Stevens Anchorage International,Anchorage,AK,USA,61.17432028,-149.9961856
-⛅️  +26°C,ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+⛅️  +24°C,ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
 ⛅️  +33°C,AUS,Austin-Bergstrom International,Austin,TX,USA,30.19453278,-97.66987194
 ☀️   +22°C,BCB,Virginia Tech,Blacksburg,VA,USA,37.20782361,-80.40832778
 ☀️   +21°C,BDL,Bradley International,Windsor Locks,CT,USA,41.93887417,-72.68322833
-⛅️  +20°C,BGR,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
+☁️   +21°C,BGR,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
 ⛅️  +26°C,BHM,Birmingham International,Birmingham,AL,USA,33.56294306,-86.75354972
 ⛅️  +27°C,BNA,Nashville International,Nashville,TN,USA,36.12447667,-86.67818222
 ☀️   +36°C,BOI,Boise Air Terminal,Boise,ID,USA,43.56444444,-116.2227778
@@ -17,7 +17,7 @@ deg,iata,name,city,state,country,lat,lon
 ☀️   +23°C,CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
 ☀️   +23°C,CMH,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278
 ☀️   +27°C,COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961
-⛅️  +28°C,DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+⛅️  +23°C,DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
 ⛅️  +28°C,DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
 ☀️   +32°C,DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
 ⛅️  +26°C,DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
@@ -27,15 +27,15 @@ deg,iata,name,city,state,country,lat,lon
 ⛅️  +29°C,IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222
 ⛅️  +29°C,ICT,Wichita Mid-Continent,Wichita,KS,USA,37.64995889,-97.43304583
 ⛅️  +26°C,IND,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417
-⛅️  +23°C,JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
-⛅️  +32°C,LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333
-☀️   +25°C,LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744
+🌫  +21°C,JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+⛅️  +31°C,LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333
+⛅️  +21°C,LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744
 ☀️   +31°C,LRU,Las Cruces International,Las Cruces,NM,USA,32.28941667,-106.9219722
 ⛅️  +27°C,MCI,Kansas City International,Kansas City,MO,USA,39.29760528,-94.71390556
 ⛅️  +24°C,MCO,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
 ☀️   +26°C,MEM,Memphis International,Memphis,TN,USA,35.04241667,-89.97666667
 ☀️   +25°C,MKE,General Mitchell International,Milwaukee,WI,USA,42.94722222,-87.89658333
-☀️   +22°C,MOT,Minot International,Minot,ND,USA,48.25937778,-101.2803339
+☀️   +20°C,MOT,Minot International,Minot,ND,USA,48.25937778,-101.2803339
 ☀️   +26°C,MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225
 ☀️   +26°C,MSY,New Orleans International,New Orleans,LA,USA,29.99338889,-90.25802778
 ⛅️  +26°C,ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
@@ -43,7 +43,7 @@ deg,iata,name,city,state,country,lat,lon
 ☀️   +24°C,PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
 ⛅️  +37°C,PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556
 ⛅️  +22°C,PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
-⛅️  +19°C,PSM,Pease International Tradeport,Portsmouth,NH,USA,43.07795889,-70.82327333
+☀️   +18°C,PSM,Pease International Tradeport,Portsmouth,NH,USA,43.07795889,-70.82327333
 ⛅️  +27°C,RDU,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
 ⛅️  +29°C,RSW,Southwest Florida International,Ft. Myers,FL,USA,26.53616667,-81.75516667
 ☀️   +23°C,SAN,San Diego International-Lindbergh,San Diego,CA,USA,32.73355611,-117.1896567
@@ -52,7 +52,7 @@ deg,iata,name,city,state,country,lat,lon
 ☀️   +16°C,SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
 ☀️   +26°C,SGF,Springfield-Branson Regional,Springfield,MO,USA,37.24432611,-93.38685806
 ⛅️  +27°C,SJC,San Jose International,San Jose,CA,USA,37.36186194,-121.9290089
-⛅️  +31°C,SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731
+🌩  +21°C,SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731
 ☀️   +27°C,SMF,Sacramento International,Sacramento,CA,USA,38.69542167,-121.5907669
 ⛅️  +31°C,STL,Lambert-St Louis International,St Louis,MO,USA,38.74768694,-90.35998972
 🌦   +17°C,SXL,Summersville,Summersville,WV,USA,38.23163889,-80.87080556
@@ -60,4 +60,4 @@ deg,iata,name,city,state,country,lat,lon
 ☀️   +30°C,TUL,Tulsa International,Tulsa,OK,USA,36.19837222,-95.88824167
 ⛅️  +38°C,Y03,Springfield Municipal,Springfield,SD,USA,42.87999833,-97.90117972
 🌦   +24°C,JAN,Jackson International,Jackson,MS,USA,32.31116667,-90.07588889
-☀️   +26°C,LEX,Blue Grass,Lexington,KY,USA,38.03697222,-84.60538889
+☀️   +25°C,LEX,Blue Grass,Lexington,KY,USA,38.03697222,-84.60538889
