@@ -15,13 +15,13 @@ deg,iata,name,city,state,country,lat,lon
 ☀️   +82°F,CHS,Charleston AFB/International,Charleston,SC,USA,32.89864639,-80.04050583
 ⛅️  +70°F,CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
 ☀️   +74°F,CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
-☀️   +73°F,CMH,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278
+☁️   +72°F,CMH,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278
 ☀️   +78°F,COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961
 ⛅️  +73°F,DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
 ⛅️  +78°F,DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
 ☀️   +90°F,DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
 ⛅️  +72°F,DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
-☀️   +82°F,FCA,Glacier Park Intl,Kalispell,MT,USA,48.31140472,-114.2550694
+☀️   +78°F,FCA,Glacier Park Intl,Kalispell,MT,USA,48.31140472,-114.2550694
 ⛅️  +84°F,FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,26.07258333,-80.15275
 ⛅️  +82°F,HNL,Honolulu International,Honolulu,HI,USA,21.31869111,-157.9224072
 ⛅️  +84°F,IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222
@@ -33,20 +33,20 @@ deg,iata,name,city,state,country,lat,lon
 ⛅️  +85°F,LRU,Las Cruces International,Las Cruces,NM,USA,32.28941667,-106.9219722
 ⛅️  +81°F,MCI,Kansas City International,Kansas City,MO,USA,39.29760528,-94.71390556
 ⛅️  +75°F,MCO,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
-☀️   +79°F,MEM,Memphis International,Memphis,TN,USA,35.04241667,-89.97666667
+⛅️  +78°F,MEM,Memphis International,Memphis,TN,USA,35.04241667,-89.97666667
 ☀️   +69°F,MKE,General Mitchell International,Milwaukee,WI,USA,42.94722222,-87.89658333
 ☀️   +68°F,MOT,Minot International,Minot,ND,USA,48.25937778,-101.2803339
 ☀️   +70°F,MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225
 ☀️   +78°F,MSY,New Orleans International,New Orleans,LA,USA,29.99338889,-90.25802778
 ☀️   +71°F,ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
 ☀️   +70°F,PDX,Portland Intl,Portland,OR,USA,45.58872222,-122.5975
-☀️   +75°F,PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
-⛅️  +98°F,PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556
+☁️   +75°F,PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+⛅️  +95°F,PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556
 ⛅️  +71°F,PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
 ☀️   +64°F,PSM,Pease International Tradeport,Portsmouth,NH,USA,43.07795889,-70.82327333
 ⛅️  +80°F,RDU,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
 ☀️   +78°F,RSW,Southwest Florida International,Ft. Myers,FL,USA,26.53616667,-81.75516667
-☀️   +73°F,SAN,San Diego International-Lindbergh,San Diego,CA,USA,32.73355611,-117.1896567
+☀️   +70°F,SAN,San Diego International-Lindbergh,San Diego,CA,USA,32.73355611,-117.1896567
 ☀️   +81°F,SAT,San Antonio International,San Antonio,TX,USA,29.53369444,-98.46977778
 ☀️   +66°F,SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.3093131
 ☀️   +59°F,SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
