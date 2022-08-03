@@ -9,56 +9,56 @@ deg,iata,name,city,state,country,lat,lon
 ⛅️  +20°C,BGR,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
 ⛅️  +25°C,BHM,Birmingham International,Birmingham,AL,USA,33.56294306,-86.75354972
 ⛅️  +27°C,BNA,Nashville International,Nashville,TN,USA,36.12447667,-86.67818222
-☀️   +27°C,BOI,Boise Air Terminal,Boise,ID,USA,43.56444444,-116.2227778
-⛅️  +28°C,BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917
-☀️   +18°C,BTV,Burlington International,Burlington,VT,USA,44.47300361,-73.1503125
-☀️   +29°C,CHS,Charleston AFB/International,Charleston,SC,USA,32.89864639,-80.04050583
-☀️   +21°C,CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
-☀️   +27°C,CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
-⛅️  +23°C,CMH,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278
-☀️   +22°C,COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961
-☀️   +27°C,DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
-⛅️  +23°C,DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
-☀️   +33°C,DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
-⛅️  +22°C,DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
-☀️   +17°C,FCA,Glacier Park Intl,Kalispell,MT,USA,48.31140472,-114.2550694
-⛅️  +25°C,FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,26.07258333,-80.15275
-☀️   +29°C,HNL,Honolulu International,Honolulu,HI,USA,21.31869111,-157.9224072
-⛅️  +29°C,IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222
-⛅️  +30°C,ICT,Wichita Mid-Continent,Wichita,KS,USA,37.64995889,-97.43304583
-☀️   +21°C,IND,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417
-⛅️  +26°C,JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
-⛅️  +36°C,LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333
-⛅️  +21°C,LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744
-☀️   +30°C,LRU,Las Cruces International,Las Cruces,NM,USA,32.28941667,-106.9219722
-⛅️  +31°C,MCI,Kansas City International,Kansas City,MO,USA,39.29760528,-94.71390556
-☀️   +26°C,MCO,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
-☀️   +27°C,MEM,Memphis International,Memphis,TN,USA,35.04241667,-89.97666667
-⛅️  +27°C,MKE,General Mitchell International,Milwaukee,WI,USA,42.94722222,-87.89658333
-☀️   +18°C,MOT,Minot International,Minot,ND,USA,48.25937778,-101.2803339
-⛅️  +31°C,MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225
-☀️   +26°C,MSY,New Orleans International,New Orleans,LA,USA,29.99338889,-90.25802778
-⛅️  +26°C,ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
-☀️   +24°C,PDX,Portland Intl,Portland,OR,USA,45.58872222,-122.5975
-☀️   +26°C,PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
-⛅️  +38°C,PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556
-⛅️  +19°C,PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
-⛅️  +23°C,PSM,Pease International Tradeport,Portsmouth,NH,USA,43.07795889,-70.82327333
-⛅️  +26°C,RDU,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
-⛅️  +24°C,RSW,Southwest Florida International,Ft. Myers,FL,USA,26.53616667,-81.75516667
-☀️   +23°C,SAN,San Diego International-Lindbergh,San Diego,CA,USA,32.73355611,-117.1896567
-☀️   +33°C,SAT,San Antonio International,San Antonio,TX,USA,29.53369444,-98.46977778
-☀️   +25°C,SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.3093131
-☁️   +15°C,SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
-☀️   +29°C,SGF,Springfield-Branson Regional,Springfield,MO,USA,37.24432611,-93.38685806
-⛅️  +21°C,SJC,San Jose International,San Jose,CA,USA,37.36186194,-121.9290089
-⛅️  +27°C,SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731
-☀️   +25°C,SMF,Sacramento International,Sacramento,CA,USA,38.69542167,-121.5907669
-☀️   +28°C,STL,Lambert-St Louis International,St Louis,MO,USA,38.74768694,-90.35998972
-☁️   +14°C,SXL,Summersville,Summersville,WV,USA,38.23163889,-80.87080556
-⛅️  +27°C,TPA,Tampa International,Tampa,FL,USA,27.97547222,-82.53325
-⛅️  +31°C,TUL,Tulsa International,Tulsa,OK,USA,36.19837222,-95.88824167
-⛅️  +37°C,Y03,Springfield Municipal,Springfield,SD,USA,42.87999833,-97.90117972
-⛅️  +23°C,JAN,Jackson International,Jackson,MS,USA,32.31116667,-90.07588889
-☀️   +22°C,LEX,Blue Grass,Lexington,KY,USA,38.03697222,-84.60538889
-⛅️  +27°C,LIT,Adams,Little Rock,AR,USA,34.72939611,-92.22424556
+Unknown location; please try ~43.5692581,-116.2216715--_curl_--wttr.in/BOS?format=1,BOI,Boise Air Terminal,Boise,ID,USA,43.56444444,-116.2227778
+--_curl_--wttr.in/BTV?format=1,BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917
+--_curl_--wttr.in/CHS?format=1,BTV,Burlington International,Burlington,VT,USA,44.47300361,-73.1503125
+Unknown location; please try ~41.40661855,-81.8512021435841--_curl_--wttr.in/CLT?format=1,CHS,Charleston AFB/International,Charleston,SC,USA,32.89864639,-80.04050583
+--_curl_--wttr.in/CMH?format=1,CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
+☀️   +22°C,CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
+☀️   +27°C,CMH,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278
+⛅️  +23°C,COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961
+☀️   +33°C,DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+Unknown location; please try ~42.2167479,-83.3531141628688--_curl_--wttr.in/FCA?format=1,DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
+Unknown location; please try ~26.072017000000002,-80.15099673135214--_curl_--wttr.in/HNL?format=1,DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+--_curl_--wttr.in/IAH?format=1,DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
+--_curl_--wttr.in/ICT?format=1,FCA,Glacier Park Intl,Kalispell,MT,USA,48.31140472,-114.2550694
+--_curl_--wttr.in/IND?format=1,FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,26.07258333,-80.15275
+--_curl_--wttr.in/JFK?format=1,HNL,Honolulu International,Honolulu,HI,USA,21.31869111,-157.9224072
+--_curl_--wttr.in/LAS?format=1,IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222
+--_curl_--wttr.in/LAX?format=1,ICT,Wichita Mid-Continent,Wichita,KS,USA,37.64995889,-97.43304583
+--_curl_--wttr.in/LRU?format=1,IND,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417
+⛅️  +31°C,JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+☀️   +26°C,LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333
+Unknown location; please try ~35.04625645,-89.9768946651319--_curl_--wttr.in/MKE?format=1,LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744
+--_curl_--wttr.in/MOT?format=1,LRU,Las Cruces International,Las Cruces,NM,USA,32.28941667,-106.9219722
+--_curl_--wttr.in/MSP?format=1,MCI,Kansas City International,Kansas City,MO,USA,39.29760528,-94.71390556
+--_curl_--wttr.in/MSY?format=1,MCO,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+Unknown location; please try ~41.9794927,-87.9013023059348--_curl_--wttr.in/PDX?format=1,MEM,Memphis International,Memphis,TN,USA,35.04241667,-89.97666667
+Unknown location; please try ~39.875018,-75.2352127896967--_curl_--wttr.in/PHX?format=1,MKE,General Mitchell International,Milwaukee,WI,USA,42.94722222,-87.89658333
+⛅️  +19°C,MOT,Minot International,Minot,ND,USA,48.25937778,-101.2803339
+⛅️  +23°C,MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225
+⛅️  +26°C,MSY,New Orleans International,New Orleans,LA,USA,29.99338889,-90.25802778
+Unknown location; please try ~26.53294975,-81.75880562612211--_curl_--wttr.in/SAN?format=1,ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+Unknown location; please try ~29.5334021,-98.4692144304692--_curl_--wttr.in/SEA?format=1,PDX,Portland Intl,Portland,OR,USA,45.58872222,-122.5975
+Unknown location; please try ~37.622452,-122.384071607814--_curl_--wttr.in/SGF?format=1,PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+--_curl_--wttr.in/SJC?format=1,PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556
+⛅️  +27°C,PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+Unknown location; please try ~38.68722345,-121.590370280632--_curl_--wttr.in/STL?format=1,PSM,Pease International Tradeport,Portsmouth,NH,USA,43.07795889,-70.82327333
+☁️   +14°C,RDU,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
+⛅️  +27°C,RSW,Southwest Florida International,Ft. Myers,FL,USA,26.53616667,-81.75516667
+⛅️  +31°C,SAN,San Diego International-Lindbergh,San Diego,CA,USA,32.73355611,-117.1896567
+⛅️  +37°C,SAT,San Antonio International,San Antonio,TX,USA,29.53369444,-98.46977778
+Unknown location; please try ~32.3121104,-90.0767782942324--_curl_--wttr.in/LEX?format=1,SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.3093131
+--_curl_--wttr.in/LIT?format=1,SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
+,SGF,Springfield-Branson Regional,Springfield,MO,USA,37.24432611,-93.38685806
+,SJC,San Jose International,San Jose,CA,USA,37.36186194,-121.9290089
+,SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731
+,SMF,Sacramento International,Sacramento,CA,USA,38.69542167,-121.5907669
+,STL,Lambert-St Louis International,St Louis,MO,USA,38.74768694,-90.35998972
+,SXL,Summersville,Summersville,WV,USA,38.23163889,-80.87080556
+,TPA,Tampa International,Tampa,FL,USA,27.97547222,-82.53325
+,TUL,Tulsa International,Tulsa,OK,USA,36.19837222,-95.88824167
+,Y03,Springfield Municipal,Springfield,SD,USA,42.87999833,-97.90117972
+,JAN,Jackson International,Jackson,MS,USA,32.31116667,-90.07588889
+,LEX,Blue Grass,Lexington,KY,USA,38.03697222,-84.60538889
+,LIT,Adams,Little Rock,AR,USA,34.72939611,-92.22424556
