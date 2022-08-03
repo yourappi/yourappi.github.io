@@ -1,31 +1,31 @@
 deg,iata,name,city,state,country,lat,lon
 🌧   +24°C,AFK,Nebraska City Municipal,Nebraska City,NE,USA,40.60688889,-95.86569444
 🌫  +14°C,AMW,Ames Municipal,Ames,IA,USA,41.99206972,-93.62180139
-☁️   +18°C,ANC,Ted Stevens Anchorage International,Anchorage,AK,USA,61.17432028,-149.9961856
+⛅️  +17°C,ANC,Ted Stevens Anchorage International,Anchorage,AK,USA,61.17432028,-149.9961856
 ⛅️  +27°C,ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
 ☀️   +35°C,AUS,Austin-Bergstrom International,Austin,TX,USA,30.19453278,-97.66987194
 ☀️   +21°C,BCB,Virginia Tech,Blacksburg,VA,USA,37.20782361,-80.40832778
 ⛅️  +23°C,BDL,Bradley International,Windsor Locks,CT,USA,41.93887417,-72.68322833
-⛅️  +21°C,BGR,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
+⛅️  +20°C,BGR,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
 ⛅️  +25°C,BHM,Birmingham International,Birmingham,AL,USA,33.56294306,-86.75354972
 ⛅️  +27°C,BNA,Nashville International,Nashville,TN,USA,36.12447667,-86.67818222
 ☀️   +27°C,BOI,Boise Air Terminal,Boise,ID,USA,43.56444444,-116.2227778
 ⛅️  +28°C,BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917
-☀️   +19°C,BTV,Burlington International,Burlington,VT,USA,44.47300361,-73.1503125
+☀️   +18°C,BTV,Burlington International,Burlington,VT,USA,44.47300361,-73.1503125
 ☀️   +29°C,CHS,Charleston AFB/International,Charleston,SC,USA,32.89864639,-80.04050583
 ☀️   +21°C,CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
 ☀️   +27°C,CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
 ⛅️  +23°C,CMH,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278
 ⛅️  +23°C,COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961
 ☀️   +27°C,DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
-⛅️  +24°C,DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
+⛅️  +23°C,DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
 ☀️   +33°C,DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
 ⛅️  +22°C,DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
 ☀️   +17°C,FCA,Glacier Park Intl,Kalispell,MT,USA,48.31140472,-114.2550694
 ⛅️  +25°C,FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,26.07258333,-80.15275
 ☀️   +29°C,HNL,Honolulu International,Honolulu,HI,USA,21.31869111,-157.9224072
 ⛅️  +29°C,IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222
-⛅️  +31°C,ICT,Wichita Mid-Continent,Wichita,KS,USA,37.64995889,-97.43304583
+⛅️  +30°C,ICT,Wichita Mid-Continent,Wichita,KS,USA,37.64995889,-97.43304583
 ☀️   +21°C,IND,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417
 ⛅️  +31°C,JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
 ⛅️  +36°C,LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333
@@ -42,7 +42,7 @@ deg,iata,name,city,state,country,lat,lon
 ☀️   +24°C,PDX,Portland Intl,Portland,OR,USA,45.58872222,-122.5975
 ☀️   +26°C,PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
 ⛅️  +38°C,PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556
-⛅️  +22°C,PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+⛅️  +19°C,PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
 ⛅️  +23°C,PSM,Pease International Tradeport,Portsmouth,NH,USA,43.07795889,-70.82327333
 ⛅️  +26°C,RDU,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
 ⛅️  +24°C,RSW,Southwest Florida International,Ft. Myers,FL,USA,26.53616667,-81.75516667
