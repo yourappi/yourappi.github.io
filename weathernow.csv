@@ -1,64 +1,64 @@
 deg,iata,name,city,state,country,lat,lon
-🌦   +24°C,AFK,Nebraska City Municipal,Nebraska City,NE,USA,40.60688889,-95.86569444
-⛅️  +28°C,AMW,Ames Municipal,Ames,IA,USA,41.99206972,-93.62180139
-Unknown location; please try ~61.17841455,-149.987447324562--_curl_--wttr.in/ATL?format=1,ANC,Ted Stevens Anchorage International,Anchorage,AK,USA,61.17432028,-149.9961856
---_curl_--wttr.in/AUS?format=1,ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
-⛅️  +27°C,AUS,Austin-Bergstrom International,Austin,TX,USA,30.19453278,-97.66987194
-⛅️  +27°C,BCB,Virginia Tech,Blacksburg,VA,USA,37.20782361,-80.40832778
-⛅️  +24°C,BDL,Bradley International,Windsor Locks,CT,USA,41.93887417,-72.68322833
-☁️   +26°C,BGR,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
-⛅️  +32°C,BHM,Birmingham International,Birmingham,AL,USA,33.56294306,-86.75354972
-☀️   +24°C,BNA,Nashville International,Nashville,TN,USA,36.12447667,-86.67818222
-⛅️  +26°C,BOI,Boise Air Terminal,Boise,ID,USA,43.56444444,-116.2227778
-Unknown location; please try ~44.4728965,-73.1514631075075--_curl_--wttr.in/CHS?format=1,BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917
---_curl_--wttr.in/CLE?format=1,BTV,Burlington International,Burlington,VT,USA,44.47300361,-73.1503125
---_curl_--wttr.in/CLT?format=1,CHS,Charleston AFB/International,Charleston,SC,USA,32.89864639,-80.04050583
---_curl_--wttr.in/CMH?format=1,CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
---_curl_--wttr.in/COD?format=1,CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
-☀️   +31°C,CMH,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278
-Unknown location; please try ~39.8501877,-104.675327725053--_curl_--wttr.in/DFW?format=1,COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961
---_curl_--wttr.in/DTW?format=1,DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
---_curl_--wttr.in/FCA?format=1,DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
---_curl_--wttr.in/FLL?format=1,DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
---_curl_--wttr.in/HNL?format=1,DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
---_curl_--wttr.in/IAH?format=1,FCA,Glacier Park Intl,Kalispell,MT,USA,48.31140472,-114.2550694
---_curl_--wttr.in/ICT?format=1,FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,26.07258333,-80.15275
---_curl_--wttr.in/IND?format=1,HNL,Honolulu International,Honolulu,HI,USA,21.31869111,-157.9224072
---_curl_--wttr.in/JFK?format=1,IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222
---_curl_--wttr.in/LAS?format=1,ICT,Wichita Mid-Continent,Wichita,KS,USA,37.64995889,-97.43304583
---_curl_--wttr.in/LAX?format=1,IND,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417
---_curl_--wttr.in/LRU?format=1,JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
---_curl_--wttr.in/MCI?format=1,LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333
---_curl_--wttr.in/MCO?format=1,LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744
---_curl_--wttr.in/MEM?format=1,LRU,Las Cruces International,Las Cruces,NM,USA,32.28941667,-106.9219722
---_curl_--wttr.in/MKE?format=1,MCI,Kansas City International,Kansas City,MO,USA,39.29760528,-94.71390556
---_curl_--wttr.in/MOT?format=1,MCO,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
---_curl_--wttr.in/MSP?format=1,MEM,Memphis International,Memphis,TN,USA,35.04241667,-89.97666667
---_curl_--wttr.in/MSY?format=1,MKE,General Mitchell International,Milwaukee,WI,USA,42.94722222,-87.89658333
---_curl_--wttr.in/ORD?format=1,MOT,Minot International,Minot,ND,USA,48.25937778,-101.2803339
---_curl_--wttr.in/PDX?format=1,MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225
---_curl_--wttr.in/PHL?format=1,MSY,New Orleans International,New Orleans,LA,USA,29.99338889,-90.25802778
---_curl_--wttr.in/PHX?format=1,ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
---_curl_--wttr.in/PIT?format=1,PDX,Portland Intl,Portland,OR,USA,45.58872222,-122.5975
---_curl_--wttr.in/PSM?format=1,PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
---_curl_--wttr.in/RDU?format=1,PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556
---_curl_--wttr.in/RSW?format=1,PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
---_curl_--wttr.in/SAN?format=1,PSM,Pease International Tradeport,Portsmouth,NH,USA,43.07795889,-70.82327333
---_curl_--wttr.in/SAT?format=1,RDU,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
---_curl_--wttr.in/SEA?format=1,RSW,Southwest Florida International,Ft. Myers,FL,USA,26.53616667,-81.75516667
---_curl_--wttr.in/SFO?format=1,SAN,San Diego International-Lindbergh,San Diego,CA,USA,32.73355611,-117.1896567
---_curl_--wttr.in/SGF?format=1,SAT,San Antonio International,San Antonio,TX,USA,29.53369444,-98.46977778
---_curl_--wttr.in/SJC?format=1,SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.3093131
---_curl_--wttr.in/SLC?format=1,SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
---_curl_--wttr.in/SMF?format=1,SGF,Springfield-Branson Regional,Springfield,MO,USA,37.24432611,-93.38685806
---_curl_--wttr.in/STL?format=1,SJC,San Jose International,San Jose,CA,USA,37.36186194,-121.9290089
---_curl_--wttr.in/SXL?format=1,SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731
---_curl_--wttr.in/TPA?format=1,SMF,Sacramento International,Sacramento,CA,USA,38.69542167,-121.5907669
---_curl_--wttr.in/TUL?format=1,STL,Lambert-St Louis International,St Louis,MO,USA,38.74768694,-90.35998972
---_curl_--wttr.in/Y03?format=1,SXL,Summersville,Summersville,WV,USA,38.23163889,-80.87080556
---_curl_--wttr.in/JAN?format=1,TPA,Tampa International,Tampa,FL,USA,27.97547222,-82.53325
---_curl_--wttr.in/LEX?format=1,TUL,Tulsa International,Tulsa,OK,USA,36.19837222,-95.88824167
---_curl_--wttr.in/LIT?format=1,Y03,Springfield Municipal,Springfield,SD,USA,42.87999833,-97.90117972
+🌦   +75°F,AFK,Nebraska City Municipal,Nebraska City,NE,USA,40.60688889,-95.86569444
+Unknown location; please try ~50.0747733,19.9401454709249--_curl_--wttr.in/ANC?format=1,AMW,Ames Municipal,Ames,IA,USA,41.99206972,-93.62180139
+⛅️  +81°F,ANC,Ted Stevens Anchorage International,Anchorage,AK,USA,61.17432028,-149.9961856
+Unknown location; please try ~30.19348925,-97.6650096352968--_curl_--wttr.in/BCB?format=1,ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444
+--_curl_--wttr.in/BDL?format=1,AUS,Austin-Bergstrom International,Austin,TX,USA,30.19453278,-97.66987194
+--_curl_--wttr.in/BGR?format=1,BCB,Virginia Tech,Blacksburg,VA,USA,37.20782361,-80.40832778
+--_curl_--wttr.in/BHM?format=1,BDL,Bradley International,Windsor Locks,CT,USA,41.93887417,-72.68322833
+--_curl_--wttr.in/BNA?format=1,BGR,Bangor International,Bangor,ME,USA,44.80744444,-68.82813889
+--_curl_--wttr.in/BOI?format=1,BHM,Birmingham International,Birmingham,AL,USA,33.56294306,-86.75354972
+--_curl_--wttr.in/BOS?format=1,BNA,Nashville International,Nashville,TN,USA,36.12447667,-86.67818222
+--_curl_--wttr.in/BTV?format=1,BOI,Boise Air Terminal,Boise,ID,USA,43.56444444,-116.2227778
+☀️   +90°F,BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917
+⛅️  +82°F,BTV,Burlington International,Burlington,VT,USA,44.47300361,-73.1503125
+☀️   +88°F,CHS,Charleston AFB/International,Charleston,SC,USA,32.89864639,-80.04050583
+Unknown location; please try ~39.99705605,-82.8930406148435--_curl_--wttr.in/COD?format=1,CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667
+☀️   +87°F,CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583
+Unknown location; please try ~39.8501877,-104.675327725053--_curl_--wttr.in/DFW?format=1,CMH,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278
+--_curl_--wttr.in/DTW?format=1,COD,Yellowstone Regional,Cody,WY,USA,44.52019417,-109.0237961
+--_curl_--wttr.in/FCA?format=1,DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222
+Unknown location; please try ~26.072017000000002,-80.15099673135214--_curl_--wttr.in/HNL?format=1,DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019
+--_curl_--wttr.in/IAH?format=1,DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372
+⛅️  +95°F,DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583
+⛅️  +88°F,FCA,Glacier Park Intl,Kalispell,MT,USA,48.31140472,-114.2550694
+Unknown location; please try ~40.6429479,-73.7793733748521--_curl_--wttr.in/LAS?format=1,FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,26.07258333,-80.15275
+--_curl_--wttr.in/LAX?format=1,HNL,Honolulu International,Honolulu,HI,USA,21.31869111,-157.9224072
+--_curl_--wttr.in/LRU?format=1,IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222
+--_curl_--wttr.in/MCI?format=1,ICT,Wichita Mid-Continent,Wichita,KS,USA,37.64995889,-97.43304583
+--_curl_--wttr.in/MCO?format=1,IND,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417
+Unknown location; please try ~35.04625645,-89.9768946651319--_curl_--wttr.in/MKE?format=1,JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556
+--_curl_--wttr.in/MOT?format=1,LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333
+--_curl_--wttr.in/MSP?format=1,LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744
+--_curl_--wttr.in/MSY?format=1,LRU,Las Cruces International,Las Cruces,NM,USA,32.28941667,-106.9219722
+Unknown location; please try ~41.9794927,-87.9013023059348--_curl_--wttr.in/PDX?format=1,MCI,Kansas City International,Kansas City,MO,USA,39.29760528,-94.71390556
+--_curl_--wttr.in/PHL?format=1,MCO,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778
+Unknown location; please try ~33.4321499,-112.010554849704--_curl_--wttr.in/PIT?format=1,MEM,Memphis International,Memphis,TN,USA,35.04241667,-89.97666667
+⛅️  +79°F,MKE,General Mitchell International,Milwaukee,WI,USA,42.94722222,-87.89658333
+⛅️  +86°F,MOT,Minot International,Minot,ND,USA,48.25937778,-101.2803339
+☀️   +86°F,MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225
+Unknown location; please try ~32.73336075,-117.192246412776--_curl_--wttr.in/SAT?format=1,MSY,New Orleans International,New Orleans,LA,USA,29.99338889,-90.25802778
+--_curl_--wttr.in/SEA?format=1,ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417
+--_curl_--wttr.in/SFO?format=1,PDX,Portland Intl,Portland,OR,USA,45.58872222,-122.5975
+☀️   +92°F,PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083
+⛅️  +64°F,PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556
+Unknown location; please try ~40.783453,-111.9801832--_curl_--wttr.in/SMF?format=1,PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083
+--_curl_--wttr.in/STL?format=1,PSM,Pease International Tradeport,Portsmouth,NH,USA,43.07795889,-70.82327333
+🌦   +59°F,RDU,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222
+⛅️  +88°F,RSW,Southwest Florida International,Ft. Myers,FL,USA,26.53616667,-81.75516667
+⛅️  +92°F,SAN,San Diego International-Lindbergh,San Diego,CA,USA,32.73355611,-117.1896567
+⛅️  +79°F,SAT,San Antonio International,San Antonio,TX,USA,29.53369444,-98.46977778
+⛅️  +81°F,SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.3093131
+Unknown location; please try ~38.03481065,-84.6049234107323--_curl_--wttr.in/LIT?format=1,SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433
+,SGF,Springfield-Branson Regional,Springfield,MO,USA,37.24432611,-93.38685806
+,SJC,San Jose International,San Jose,CA,USA,37.36186194,-121.9290089
+,SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731
+,SMF,Sacramento International,Sacramento,CA,USA,38.69542167,-121.5907669
+,STL,Lambert-St Louis International,St Louis,MO,USA,38.74768694,-90.35998972
+,SXL,Summersville,Summersville,WV,USA,38.23163889,-80.87080556
+,TPA,Tampa International,Tampa,FL,USA,27.97547222,-82.53325
+,TUL,Tulsa International,Tulsa,OK,USA,36.19837222,-95.88824167
+,Y03,Springfield Municipal,Springfield,SD,USA,42.87999833,-97.90117972
 ,JAN,Jackson International,Jackson,MS,USA,32.31116667,-90.07588889
 ,LEX,Blue Grass,Lexington,KY,USA,38.03697222,-84.60538889
 ,LIT,Adams,Little Rock,AR,USA,34.72939611,-92.22424556
